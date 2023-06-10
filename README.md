@@ -29,6 +29,7 @@ Make sure you have the latest version of the Sui binaries installed on your mach
 ## Repo Structure
 
 - **dex:** It contains the logic for users to swap, add/remove liquidity and create pools
+- **dex-quote** A set of functions to quote various DEX functions
 - **ipx:** The governance token of Interest Protocol
 - **library:** It contains utility functions that is used by the DEX
 
